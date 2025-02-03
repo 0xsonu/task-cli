@@ -2,6 +2,8 @@
 
 A command-line task manager built with TypeScript that helps you track your tasks with status updates and persistent storage.
 
+Project URL : https://roadmap.sh/projects/task-tracker
+
 ## Features
 
 - ✅ Add new tasks
@@ -23,7 +25,7 @@ A command-line task manager built with TypeScript that helps you track your task
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/task-tracker-cli.git
+git clone https://github.com/0xsonu/task-cli.git
 cd task-tracker-cli
 ```
 
